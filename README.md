@@ -1,0 +1,1 @@
+Playground for creating demo app to learn Go and gRPC backend
